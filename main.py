@@ -1,4 +1,4 @@
-from vehicle import *
+from vehicle import Sedan
 
 if __name__ == '__main__':
     # Текущие цвета __COLOR_VARIANTS = ['blue', 'red', 'green', 'black', 'white']
@@ -15,4 +15,4 @@ if __name__ == '__main__':
     # Проверяем что поменялось
     vehicle1.print_info()
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+# See `vehicle.py` for implementation details
